@@ -8,7 +8,7 @@ namespace URBAN
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("eat shit");
+            Console.WriteLine("Program has started. SAAR, Area, Urban, and Soil will be user varibles one day");
 
             var Constant = 0.00108;
             var SAAR = 1071;
